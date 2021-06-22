@@ -16,7 +16,7 @@ function home() {
                 <div className="home__row">
                 <Product id=""title="Make up kit, hope that that kit will improve your make up skill but, for sur it's won't" price={13.4} image=".\make_kit.jpg" rating={4}/>
           <Product id="3"title="The lean startUp. Personal developpement book with a lot of dumb advice about how to grow health in 24h" price={40.0}  image=".\lean_startUp.jpg" rating={3}/>
-          <Product id="4"title="Graphique Carte, NVIDIA GeForce RTX series 20" price={1500.0} image=".\graphique_carte.jpg" rating="⭐⭐⭐"/>
+          <Product id="4"title="Graphique Carte, NVIDIA GeForce RTX series 20" price={1500.0} image=".\graphique_carte.jpg" rating={4}/>
                     
                 </div>
                 <div className="home__row">
